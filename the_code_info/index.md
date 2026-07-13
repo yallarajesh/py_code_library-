@@ -7,3 +7,4 @@ whether a task already exists before building it again.
 -->
 
 csv_description | reads a CSV file with pandas and returns a full description as a dict (shape, dtypes, missing values, unique counts, numeric and categorical summaries, memory usage, sample rows) | tags: csv, pandas, data description, eda, data profiling, dataframe summary | task_csv_description/
+sales_forecast | reads a monthly sales CSV (date, sales columns) and returns a Prophet forecast for future periods | tags: forecasting, prophet, sales, time series, monthly data, pandas | task_sales_forecast/
